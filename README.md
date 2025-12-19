@@ -30,17 +30,6 @@ All visual elements such as images and icons are referenced according to the pro
 
 ---
 
-## 📂 Project Structure
-project-root/
-│
-├── index.html
-├── styles.css
-├── assets/
-│ ├── images/
-│ └── icons/
-└── README.md
-
----
 
 ## 🧠 Semantic HTML Structure
 
@@ -55,7 +44,7 @@ The page is built using proper semantic tags to improve accessibility, SEO, and 
 
 ---
 
-## 📱 Responsive Design
+## 📱 Responsive Design (medium responsive)
 
 The layout adapts to different screen sizes using **media queries**:
 
