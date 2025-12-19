@@ -13,6 +13,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.btn{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
 /*Nav section*/
 nav li {
     list-style: none;
